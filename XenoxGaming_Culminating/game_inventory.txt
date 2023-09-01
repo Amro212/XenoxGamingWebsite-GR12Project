@@ -1,0 +1,4 @@
+Hell Let Loose,Overwatch,GTA 5,Dead By Daylight,Outriders,Hitman 3,COD Black Ops 4,Uncharted 4,God Of War,Marvel's Spider Man,Horizon Forbidden West,Resident Evil Village,Minecraft,theHunter Call From the Wild,PUBG,Gears of War 3,Halo Infinite,Far Cry 6
+26.49,30.49,12.39,7.09,66.89,58.39,23.00,35.49,18.49,15.49,69.99,57.49,24.49,32.39,9.19,2.39,54.49,70.99
+PC,PC,PC,PC,PC,PC,Playstation,Playstation,Playstation,Playstation,Playstation,Playstation,Xbox,Xbox,Xbox,Xbox,Xbox,Xbox,
+2019,2016,2013,2016,2021,2021,2018,2016,2018,2018,2021,2021,2011,2017,2017,2011,2021,2021
